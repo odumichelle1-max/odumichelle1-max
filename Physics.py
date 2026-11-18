@@ -1,4 +1,4 @@
-# physics formula
+# physic formula
 
 def calc_velocity(distance, time):
     # v = d/t
